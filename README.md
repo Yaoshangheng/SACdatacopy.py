@@ -5,3 +5,4 @@
 
 3、SACdate name "NET.STA.YYYY.JulianDAY.*HE.SAC"
 
+SACdata stroge in one folder,this script find each data by it's data name.
