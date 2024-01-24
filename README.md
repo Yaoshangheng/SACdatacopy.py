@@ -6,3 +6,6 @@
 3、SACdate name "NET.STA.YYYY.JulianDAY.*HE.SAC"
 
 SACdata stroge in one folder,this script find each data by it's data name.
+
+#SACdatacopy.sh
+SACdata stroge in one station list in different YYYY/YYYYMMDD and this script find each SACdata and copy to new folder.
