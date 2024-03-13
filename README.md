@@ -5,6 +5,8 @@
 
 3、SACdate name "NET.STA.YYYY.JulianDAY.*HE.SAC"
 
+4、SACdata name "NET.SAT.YYYYMMDD.*HHE.SAC" use SACdatacopy_TC.py
+
 SACdata stroge in one folder,this script find each data by it's data name.
 
 #SACdatacopy.sh
